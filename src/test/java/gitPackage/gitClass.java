@@ -10,7 +10,7 @@ public class gitClass {
         String surname="Kocak";
         int studentId = 125;
 
-        String adress="oyak sitesi";
+        String adress="Eryaman Mahallesi Başaka siter";
         String town="Ankara";
         String country="Turkiye";
 
