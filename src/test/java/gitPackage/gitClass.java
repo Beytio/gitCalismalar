@@ -7,19 +7,12 @@ public class gitClass {
         String name = "Hasan";
         String surname="Kocak";
 
-
-        int sayı=145;
+        int sayı=124654654;
         int studentId = 125;
         String namme2="klkdsj";
 
-
-        String adress="Eryaman Mahallesi Başaka siter";
-        String town="Kırıkkale";
+        String adress="sincan Mahallesi Başaka siter";
+        String town="Ankara";
         String country="Turkiye";
-
-
-
-
-
     }
 }
