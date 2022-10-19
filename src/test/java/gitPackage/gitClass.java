@@ -8,8 +8,10 @@ public class gitClass {
         String surname="Kocak";
 
 
+        int sayı=145;
         int studentId = 125;
         String namme2="klkdsj";
+
 
         String adress="Eryaman Mahallesi Başaka siter";
         String town="Kırıkkale";
