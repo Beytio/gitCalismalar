@@ -9,6 +9,10 @@ public class gitClass {
         int sayı=145;
         int studentId = 125;
         String namme2="klkdsj";
+
+        String adress="sincan Mahallesi Başaka siter";
+        String town="Ankara";
+        String country="Turkiye";
      /*   String adress="Eryaman Mahallesi Başaka siter";
         String town="Kırıkkale";
         String country="Turkiye";*/
