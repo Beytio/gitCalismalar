@@ -6,9 +6,15 @@ public class gitClass {
 
         System.out.println("ikinci satırımda çeşitli kodlar yazıyorum");
 
-        String str = "Hasan";
+        String name = "Hasan";
         String surname="Kocak";
         int studentId = 125;
+
+        String adress="Eryaman Mahallesi Başaka siter";
+        String town="Ankara";
+        String country="Turkiye";
+
+
 
     }
 }
