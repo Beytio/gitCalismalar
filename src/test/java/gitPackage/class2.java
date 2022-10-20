@@ -1,6 +1,7 @@
 package gitPackage;
 
 public class class2 {
+    //mndskjhfkjsdhfjsd
 
     boolean university=false;
     String name="fatih";
