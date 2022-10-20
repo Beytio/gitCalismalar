@@ -1,5 +1,5 @@
 package gitPackage;
 
-public class ClassTest11 {
+public class ClassTest12 {
     // calısmalar buyara yapıldı
 }
