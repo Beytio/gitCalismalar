@@ -1,6 +1,6 @@
 package gitPackage;
 
-public class gitClass {
+public class GitClass {
     public static void main(String[] args) {
         System.out.println("git çalışmaları kapasamında oluşturuldu");
         System.out.println("ikinci satırımda çeşitli kodlar yazıyorum");
